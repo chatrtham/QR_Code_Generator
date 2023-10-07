@@ -1,0 +1,7 @@
+Flask
+Flask-Session
+Werkzeug
+cs50
+qrcode
+Pillow
+uuid
